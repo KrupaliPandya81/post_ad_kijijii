@@ -1,0 +1,6 @@
+co\pragra\postad\pageobject\Kijijii_HomePage.class
+co\pragra\postad\pageobject\SigninPage.class
+co\pragra\postad\listeners\ScreenshotListeners.class
+co\pragra\postad\pageobject\Adtitle_PostAd.class
+co\pragra\postad\pageobject\Get_PostAdButton.class
+co\pragra\postad\testcases\DetailsTest.class
