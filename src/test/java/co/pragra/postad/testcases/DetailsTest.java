@@ -1,6 +1,6 @@
 package co.pragra.postad.testcases;
 
-import co.pragra.postad.listeners.ScreenshotListeners;
+//import co.pragra.postad.listeners.ScreenshotListeners;
 import co.pragra.postad.pageobject.Kijijii_HomePage;
 import co.pragra.postad.pageobject.SigninPage;
 import org.openqa.selenium.WebDriver;
@@ -11,7 +11,7 @@ import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
-@Listeners(ScreenshotListeners.class)
+//@Listeners(ScreenshotListeners.class)
 public class DetailsTest {
 
 WebDriver driver;

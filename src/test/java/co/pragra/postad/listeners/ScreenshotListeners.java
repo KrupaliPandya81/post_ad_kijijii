@@ -1,3 +1,4 @@
+/*
 package co.pragra.postad.listeners;
 
 import co.pragra.postad.testcases.DetailsTest;
@@ -64,3 +65,4 @@ public class ScreenshotListeners implements ITestListener {
 
     }
 }
+*/
